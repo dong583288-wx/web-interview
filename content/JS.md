@@ -132,7 +132,8 @@ import 特点：语言规格层面支持模块功能。支持编译时静态分�
 </details>
 
 <b><details><summary>17.如何判断 NaN</summary></b>
-
+window.isNaN(value)
+  返回值：true or false
 </details>
 
 <b><details><summary>18. null/undefined 的区别</summary></b>
